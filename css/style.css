@@ -310,11 +310,12 @@ button {
 }
 
 .banner_main {
-     padding: 90px 0;
+     
      background: url(../images/banner.jpg);
      background-size: 100% 100%;
      background-repeat: no-repeat;
-     padding-top: 60px;
+     padding-top: 100px;
+     padding-bottom: 100px;
      background-position: center;
      background-size: cover;
 }
@@ -520,8 +521,6 @@ button {
 .testimonial_box figure {
      margin: 0;
 }
-
-.testimonial_box figure img {}
 
 .testimonial_box {
      text-align: left;
